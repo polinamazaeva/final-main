@@ -1,5 +1,6 @@
 name: final-main
-on: push
+on: push: 
+    branches: [ "addtags" ]
 jobs:
   test:
     runs-on: ubuntu-latest
