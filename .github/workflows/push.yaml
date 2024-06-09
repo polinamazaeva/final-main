@@ -1,4 +1,4 @@
-name: final-main
+name: final-main-pipeline
 on: push
 jobs:
   test:
